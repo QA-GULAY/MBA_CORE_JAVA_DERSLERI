@@ -7,7 +7,6 @@ public class Main {
         int anaFaiz=120;
         int faizOrani=15;
         int zaman=365;
-        bankAccount.toplamFaizMiktari(anaFaiz,faizOrani,zaman);
 
     }
 }
