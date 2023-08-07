@@ -1,0 +1,10 @@
+package Day_37;
+
+public interface Country {
+
+    //BIR INTERFACE CLASSTA VERIABLE LARA DEGER ATAMAK ZORUNDAYIZ NUNU FINAL KEYWORD KABUL ETTIGI ICIN BI DEGERI OLMAK ZORUNDA
+
+    int id=3562;
+
+    String isim="AYSE";
+}
