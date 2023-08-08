@@ -3,7 +3,7 @@ package Day_14.Package.Practice5;
 public class main {
     public static void main(String[] args) {
 
-        MBA mba= new MBA();
+        MBA_OgrenciBilgileri mba= new MBA_OgrenciBilgileri();
 
         String ogrencininAdi="ahmet caliskan";
         int ogrencininYasi=23;
