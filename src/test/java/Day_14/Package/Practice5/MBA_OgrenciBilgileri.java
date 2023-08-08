@@ -1,6 +1,6 @@
 package Day_14.Package.Practice5;
 
-public class MBA {
+public class MBA_OgrenciBilgileri {
 
 
     public  void ogrenciBilgileri(String ogrencininAdi,int ogrencininYasi,String  codingBilgisi ) {
